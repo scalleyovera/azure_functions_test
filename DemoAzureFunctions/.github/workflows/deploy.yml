@@ -6,7 +6,7 @@ on:
       - production
 
 env:
-  AZURE_FUNCTIONAPP_NAME: 'func-demo-daniel2026' # Asegúrate de que coincida con el nombre que pusiste en el Paso 2
+  AZURE_FUNCTIONAPP_NAME: 'function-app-daniel581999' # Asegúrate de que coincida con el nombre que pusiste en el Paso 2
   DOTNET_VERSION: '10.0.x'
 
 jobs:
