@@ -6,7 +6,7 @@ namespace DemoAzureFunctions.Services
     {
         public string GetGreeting(string name)
         {
-            return $"Hi {name}, nice to meet you!";
+            return $"Hi {name}, nice to meet you!!";
         }
     }
 }
